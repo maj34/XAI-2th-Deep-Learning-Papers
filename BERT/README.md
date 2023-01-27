@@ -1,2 +1,3 @@
-XAI-2th-Deep-Learning-Papers
-BERT 리뷰 및 구현
+## XAI-2th-Deep-Learning-Papers
+
+BERT; Pre-training of Deep Bidirectional Transformers for Language Understanding
