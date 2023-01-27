@@ -1,2 +1,5 @@
-# XAI-2th-Deep-Learning-Papers
-## Xception 코드 구현
+## Xception; Deep Learning with Depthwise Separable Convolutions
+
+**[분야]** Computer vision, Classification
+
+**[논문 원문]** https://arxiv.org/abs/1610.02357
