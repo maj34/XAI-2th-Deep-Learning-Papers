@@ -1,3 +1,12 @@
+## StarGAN; Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
+
+**[분야]** Computer vision, Generative Adversarial Network
+
+**[논문 원문]** https://arxiv.org/abs/1711.09020
+
+---
+
+
 ## StarGAN - Official PyTorch Implementation
 
 **\*\*\*\*\* New: StarGAN v2 is available at https://github.com/clovaai/stargan-v2 \*\*\*\*\***
